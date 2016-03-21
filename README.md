@@ -10,7 +10,7 @@ OS X Automator workflow that archives all files copied using Finder to `~/Copies
 
 ## Installation
 
-1. Download [the latest release](https://github.com/busterc/archive-copies-automator-workflow/archive/master.zip)
+1. Download [the latest release](https://github.com/busterc/archive-copy-automator-workflow/archive/master.zip)
 2. Unzip it
 3. Move `Archive Copy.workflow` into `~/Library/Services/`
 4. Assign a keyboard shortcut:
